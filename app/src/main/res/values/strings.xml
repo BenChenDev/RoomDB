@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="name">Student Name</string>
+    <string name="number">Student Number</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+
+
+</resources>
